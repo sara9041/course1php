@@ -7,7 +7,7 @@
 <style>
 body{
    height:600px;
-min-height;600px;
+
    color:red;
 
 }
