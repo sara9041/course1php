@@ -6,6 +6,7 @@
 </head>
 <body>
 background-color:black;
+color:red;
    <h1>hello</h1> 
 </body>
 </html>
