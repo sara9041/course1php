@@ -14,13 +14,8 @@ min-height;600px;
   
 </style>
 <body>
-<<<<<<< HEAD
-background-color:black;
-color:red;
-   <h1>hello</h1> 
-=======
+   <h1>hello</h1>
     <h1>hello</h1>
->>>>>>> fixes
 </body>
 </html>
 
