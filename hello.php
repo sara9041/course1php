@@ -5,9 +5,9 @@
     <title>Document</title>
 </head>
 <body>
-   <p><?php
-echo 'Hello World';
-?></p> 
+    <p>
+    <?php echo 'hello woorld' ?>
+    </p>
 </body>
 </html>
 
