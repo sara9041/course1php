@@ -6,14 +6,18 @@
 </head>
 <body>
     <p>
-    <?php echo 'hello woorld' ?>
+    <?php echo 'hello world' ?>
     </p>
     <?php
-    $a = 1;
-    $b = 2;
-    $c = 'hi';
-    $d ='1';
-    var_dump($a===$d)
+    $i=0;
+    do{
+        
+        echo "<div>$i</div>";
+
+        $i++;
+    }
+    while($i<10);
+
     ?>
 </body>
 </html>
